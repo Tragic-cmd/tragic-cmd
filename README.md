@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I'm glad you're here!
 
-<!--
-**Tragic-cmd/tragic-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub – where backend logic meets system design, and complex problems are fun puzzles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Project: [Camera Server Sizing Calculator](https://camera-server-sizing-calculator.onrender.com/)
+
+A **precision tool** for designing video surveillance infrastructure at scale. Built for integrators, engineers, and architects who demand **accuracy, performance, and resilience**.
+
+### ⚙️ Key Capabilities
+
+- 📹 **Bitrate Estimation** based on camera count, resolution, frame rate, and motion profiles
+- 💾 **Storage Sizing** with support for RAID levels, buffer margins, and filesystem overhead
+- 🧠 **Smart RAID Planning** including rebuild time estimates, drive grouping logic, and fault tolerance
+- 🖥️ **VM Resource Calculator** with CPU, RAM, and bandwidth planning based on per-camera load
+- 🌐 **Physical Infrastructure Recommendations** for hosts, network, and power
+- 🛡️ **Redundancy & HA Guidance** for enterprise-grade deployments
+- 📊 **Future Scaling Recommendations** tailored to your current usage profile
+
+---
+
+## 💡 What I Bring to the Table
+
+### 🛠️ Core Skills
+
+- **Languages**: `Python` • `Go` • `C#` • `Bash/Shell` • `JavaScript` • `HTML/CSS`
+- **Database**: Proficient in `SQL`, schema design, and query optimization
+- **Game Dev**: Passionate about creating experiences in **Unity**
+- **Systems**: Deep understanding of **networking**, **RAID**, **virtualization**, and **server hardware**
+
+### 🧠 What I Love
+
+- 🎮 Designing and building games from scratch
+- 🧩 Solving technical puzzles and performance bottlenecks
+- 📈 Turning abstract needs into concrete, data-driven tools
+- 🧪 Experimenting with new platforms, libraries, and architectures
+
+---
+
+## 🕹️ Let’s Build Cool Stuff
+
+If you're into:
+- 🔍 digging into edge cases
+- 🔧 building tools that matter
+- 🧠 overengineering for fun (and performance)
+
+...you’re in the right place!
+
+> ⭐ Star it if you like it, fork it if you want to build on it, or open an issue if you’ve got ideas!
+
+---
